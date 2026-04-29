@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-u3hw3k.cloudc.top/sitemap.xml
